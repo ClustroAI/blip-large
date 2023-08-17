@@ -1,1 +1,1 @@
-# blip-large
+Model reference https://huggingface.co/Salesforce/blip-image-captioning-large
